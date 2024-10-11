@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1505" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/activity_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/fragment_add_profile.xml" value="0.29322916666666665" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/fragment_details.xml" value="0.25" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/fragment_edit_profile.xml" value="0.29322916666666665" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/fragment_users.xml" value="0.25" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/list_item.xml" value="0.2921875" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/layout/tool_bar.xml" value="0.29322916666666665" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/menu/add_user_menu.xml" value="0.29322916666666665" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/menu/detail_menu.xml" value="0.29322916666666665" />
+        <entry key="..\:/Apps/SocialAppByNavgraph/app/src/main/res/menu/save_menu.xml" value="0.29322916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.08501513622603431" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

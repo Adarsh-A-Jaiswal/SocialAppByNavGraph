@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social App By Navgraph</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuItemEdit">Edit</string>
+    <string name="menItemDelete">Delete</string>
+    <string name="menuTitleSave">SAVE</string>
+    <string name="mi_addTitle">Add user</string>
+    <string name="btn_1">1</string>
+    <string-array name="Gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string-array name="Status">
+        <item>active</item>
+        <item>inactive</item>
+    </string-array>
+</resources>
